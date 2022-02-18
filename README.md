@@ -26,7 +26,7 @@ if all goes well,
 go the the page you want to add the "Mona-Window", add shortcode from the add block option
 and time the following in the shortcode block input
 ```JavaScript
-[erw-monalisa]
+[monalisa-here]
 ```
 
 for more details and for getting your screenId by contacting itisvinciis@gmail.com

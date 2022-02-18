@@ -10,12 +10,20 @@
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0",
     "rewire": "^6.0.0",
+<<<<<<< HEAD
     "tsmona": "^1.6.0",
+=======
+    "tsmona": "^1.5.8",
+>>>>>>> 84c583518fc05fd5285c2e1f0d8ae112c3c23fb1
     "web-vitals": "^2.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
+<<<<<<< HEAD
     "build": "node ./scripts/build-non-split.js",
+=======
+    "build": "cd helloworldreactapp && npm install rewire && cd ../ && node ./scripts/build-non-split.js",
+>>>>>>> 84c583518fc05fd5285c2e1f0d8ae112c3c23fb1
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
